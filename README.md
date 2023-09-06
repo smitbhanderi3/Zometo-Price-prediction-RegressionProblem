@@ -1,6 +1,6 @@
 # Zometo-Price-prediction-RegressionProblem
 
-Summary of Machine Learning Project: Zomato Price Prediction using Linear Regression
+
 
 # In this machine learning project, the primary objective is to predict restaurant prices on Zomato, a popular online food delivery and restaurant discovery platform. The project revolves around solving a regression problem, where the target variable is the price of food items, and the goal is to build an accurate predictive model.
 
